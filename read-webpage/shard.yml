@@ -1,0 +1,13 @@
+name: read-webpage
+version: 0.1.0
+
+authors:
+  - Oren <orengolan@gmail.com>
+
+targets:
+  read-webpage:
+    main: src/read-webpage.cr
+
+crystal: 0.32.1
+
+license: MIT
