@@ -32,7 +32,7 @@ Result:
 Hello Kamel! The time is 2019-12-27 17:30:51 -08:00
 ```
 
-## 3. reading a webpage
+## 3. Reading a Webpage
 ```
 cd read-webpage
 crystal run src/read-webpage.cr
